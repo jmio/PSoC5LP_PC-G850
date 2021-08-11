@@ -1,8 +1,12 @@
 # PSoC5LP_PC-G850
 
 This is an experiment to connect PC-G850 to PSoC5LP (CY8CKIT-059).
-
 PSoC5LP is tolerance to 5V, so can connect direct to PC-G850 Z80 native bus.
+
+![Image1](https://github.com/jmio/PSoC5LP_PC-G850/blob/main/breakout1.jpg)
+
+Via Original PCB
+![Image1](https://github.com/jmio/PSoC5LP_PC-G850/blob/main/p-ban.jpg)
 
 ## PSoC TEST Project
 
